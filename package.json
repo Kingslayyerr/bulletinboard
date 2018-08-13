@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Kingslayyerr/bulletinboard.git",
+  "homepage": "https://kingslayyerr.github.io/bulletinboard/",
   "name": "kanban",
   "version": "0.1.0",
   "private": true,
@@ -10,7 +10,7 @@
     "react-scripts": "1.1.4"
   },
   "scripts": {
-    "deploy": "yarn build && gh-pages -d build ",
+    "deploy": "yarn build && gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
